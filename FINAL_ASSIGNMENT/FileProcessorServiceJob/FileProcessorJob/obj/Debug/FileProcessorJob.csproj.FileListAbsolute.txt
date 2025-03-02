@@ -1,0 +1,9 @@
+C:\FINAL_ASSIGNMENT\FileProcessorServiceJob\FileProcessorJob\bin\Debug\FileProcessorJob.exe.config
+C:\FINAL_ASSIGNMENT\FileProcessorServiceJob\FileProcessorJob\bin\Debug\FileProcessorJob.exe
+C:\FINAL_ASSIGNMENT\FileProcessorServiceJob\FileProcessorJob\bin\Debug\FileProcessorJob.pdb
+C:\FINAL_ASSIGNMENT\FileProcessorServiceJob\FileProcessorJob\obj\Debug\FileProcessorJob.csproj.AssemblyReference.cache
+C:\FINAL_ASSIGNMENT\FileProcessorServiceJob\FileProcessorJob\obj\Debug\FileProcessorJob.ProjectInstaller.resources
+C:\FINAL_ASSIGNMENT\FileProcessorServiceJob\FileProcessorJob\obj\Debug\FileProcessorJob.csproj.GenerateResource.cache
+C:\FINAL_ASSIGNMENT\FileProcessorServiceJob\FileProcessorJob\obj\Debug\FileProcessorJob.csproj.CoreCompileInputs.cache
+C:\FINAL_ASSIGNMENT\FileProcessorServiceJob\FileProcessorJob\obj\Debug\FileProcessorJob.exe
+C:\FINAL_ASSIGNMENT\FileProcessorServiceJob\FileProcessorJob\obj\Debug\FileProcessorJob.pdb
